@@ -1,2 +1,2 @@
 # SmartOfficeDev
-SmartOffice code for developing.
+SmartOffice shell installer. (Works only if connected to WINET's network).
