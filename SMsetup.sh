@@ -193,7 +193,7 @@ move_build_folder(){
     mv "$BUILD_FOLDER_DIR" "$MANIOT_FOLDER_DIR"
 }
 
-read -p "Hello, do you want to install SmartOffice environment and components? (Y/N)" proceed
+read -p "Hello, do you want to install SmartOffice environment and it's components? (Y/N)" proceed
 
 if [ "$proceed" = N -o "$proceed" = n ]
 then
